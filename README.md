@@ -3,7 +3,7 @@ Sample for showing MVVM on xamarin.forms
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/sunKdjrJDb4E_S4mpHShTA
 
 QQ Group:313308215
 
